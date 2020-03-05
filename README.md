@@ -22,6 +22,7 @@ Links para seguir investigando y aprendiendo sobre desarrollo web
 - [Teoría Flexbox con imágenes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Teoría Flexbox con imágenes 2](https://github.com/samanthaming/Flexbox30)
 - [Cómo pensar responsivamente](https://www.freecodecamp.org/news/how-to-start-thinking-responsively/)
+- [Selectores explicados interactivamente](https://hugogiraudel.github.io/selectors-explained/?s=.input%253Avalid)
 
 ## 📚 Cursos
 
@@ -39,8 +40,9 @@ Links para seguir investigando y aprendiendo sobre desarrollo web
 - [UiGoodies](http://www.uigoodies.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [FontAwesome Icons](https://fontawesome.com/start)
+- [Tablero con múltiples recursos](https://trello.com/b/mgCxpbi3/r-argentina-programa)
 
 
-## 🗣 Comunidades
+## 🗣 Comunidades online
 
 - [Dev.to](https://dev.to/)
