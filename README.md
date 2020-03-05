@@ -2,6 +2,9 @@
 
 Links para seguir investigando y aprendiendo sobre desarrollo web
 
+[Código inicial](https://github.com/pabloHoc/ada-workshop-mi-primera-pagina)
+[Código finalizado con comentarios](https://codepen.io/pablohHoc/pen/abzgWag)
+
 ## 📄 HTML
 
 - [LenguajeHTML](https://lenguajehtml.com/p/html/)
