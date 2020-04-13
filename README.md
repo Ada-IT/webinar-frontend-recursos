@@ -45,4 +45,5 @@ Links para seguir investigando y aprendiendo sobre desarrollo web
 
 ## 🗣 Comunidades online
 
+- [Asadito JS](https://twitter.com/asaditojs?lang=es)
 - [Dev.to](https://dev.to/)
